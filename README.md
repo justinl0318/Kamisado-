@@ -1,7 +1,7 @@
 # Kamisado
 
 ### Intro to Kamisado
-Kamisado is an abstract strategy board game for two players that's played on an 8x8 multicoloured board. Each player controls a set of eight octagonal dragon tower pieces. Each player's set of dragon towers contains a tower to match each of the colours that appear on the squares of the board (i.e., a brown tower, a green tower, etc.). [https://en.wikipedia.org/wiki/Kamisado](url)
+Kamisado is an abstract strategy board game for two players that's played on an 8x8 multicoloured board. Each player controls a set of eight octagonal dragon tower pieces. Each player's set of dragon towers contains a tower to match each of the colours that appear on the squares of the board (i.e., a brown tower, a green tower, etc.). [https://en.wikipedia.org/wiki/Kamisado](https://en.wikipedia.org/wiki/Kamisado)
 
 ### Intro to negamax algorithm
 The _negamax_ algorithm is an algorithm frequently used in two-player games where it can search and analyze all futures moves (according to depth). It is a variant of the _minimax_ algorithm, where it relies on the fact `min(a, b) = -max(-b, -a)`.
@@ -21,4 +21,4 @@ The deeper the tree, the longer it takes for the AI to make a move.
 
 ---
 
-Youtube tutorial: [https://www.youtube.com/watch?v=adqrJB_LE6k](url)
+Youtube tutorial: [https://www.youtube.com/watch?v=adqrJB_LE6k](https://www.youtube.com/watch?v=adqrJB_LE6k)
